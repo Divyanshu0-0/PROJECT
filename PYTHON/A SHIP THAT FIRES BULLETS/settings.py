@@ -1,5 +1,6 @@
 class Settings:
     """ A class to store all settings for Alien Invasions. """
+
     def __init__(self):
         """ Initialization the game's settings. """
         # Screen settings
