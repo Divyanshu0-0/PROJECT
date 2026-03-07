@@ -81,7 +81,7 @@ if __name__ == '__main__':
 
 
     # def __init__(self):
-    #     """ Initialize the game ,and create game resources """
+    #     """ Initialize the game ,and create game resource """
     #     pygame.init()  #1
     #
     #     self.clock = pygame.time.Clock()
